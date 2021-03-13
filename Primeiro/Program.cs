@@ -282,7 +282,7 @@ namespace Primeiro
             DateTime hoje = DateTime.Today;
             Console.WriteLine(hojeNow);
             Console.WriteLine(hojeUTC);
-            Console.WriteLine(hoje);
+           // Console.WriteLine(hoje);
             Console.WriteLine(hoje.ToString());
 
         }
